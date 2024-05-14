@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oi, eu sou o Gustavo Henrique Rodrigues Pereira, engenheiro de produção e cientista de dados explorando as fronteiras da tecnologia!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavohnrq&show_icons=true&theme=dark" alt="Anurag's GitHub stats" style="vertical-align:top">
